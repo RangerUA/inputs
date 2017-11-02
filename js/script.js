@@ -28,4 +28,3 @@ container.addEventListener('click', function createPatern(e){
 function containerCounter(){
 	return container.children.length + 1;
 }
-// containerCounter();
